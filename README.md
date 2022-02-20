@@ -120,11 +120,11 @@ $ vim check_list.txt
 git add . && git commit -m "19.02.2022 add check_list.txt" && git push -u origin CheckList
 ```
 ### __9. На внешнем репозитории сделать Pull Request ветки CheckLists в main.__
-_-> https://github.com/MikhaylovVitaliy/GitHub/tree/master_
-_-> Compare & pull request_
-_-> Create pull request_
-_-> Merge pull request_
-_-> Confirm merge_
+* _-> https://github.com/MikhaylovVitaliy/GitHub/tree/master_
+* _-> Compare & pull request_
+* _-> Create pull request_
+* _-> Merge pull request_
+* _-> Confirm merge_
 
 ### __10. Синхронизировать Внешнюю и Локальную ветки Main.__
 _Переходим в основную ветку:_
