@@ -1,11 +1,17 @@
 
-ID: 		BR001
-Summary:	Unable to add geolocation exceptions	
-Steps:	
-	1. Go to chrome://settings/contentExceptions#location
-	2. Add an exception
-Expected:	Exception is created
-Actual:		Unable to add new Hostname pattern, 
-		there is no area where you can add a new exception
-Priority:	Medium
+ID:
+Summary:
+Descriptions:
+- Exp:
+- Act:
+- Req:
+Steps to reproduce:
+Reproducibility:
+Severity:
+Priority:
+Symptom:
+Workaround:
+Comments:
+Attachments:
+
 
